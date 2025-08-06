@@ -8,12 +8,7 @@ import { getFirestore } from "firebase/firestore";
 import { Platform } from "react-native";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyB_xZca3wrB-HqvbjFAfVrRsps89Nink8A",
-  authDomain: "lumina-skin-care.firebaseapp.com",
-  projectId: "lumina-skin-care",
-  storageBucket: "lumina-skin-care.appspot.com",
-  messagingSenderId: "654070228073",
-  appId: "1:654070228073:web:518f9ee3cd86810bf62ef8",
+  // Add with your firebase config
 };
 
 // Initialize Firebase
