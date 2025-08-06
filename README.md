@@ -24,5 +24,3 @@ The app enables users to upload or scan their face, detect skin issues (e.g., ac
 - Authentication system with profile & history
 - History of past skin analysis 
 
----
-
