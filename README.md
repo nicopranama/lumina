@@ -2,7 +2,7 @@
 
 **Lumina** is a cross-platform mobile application that analyzes facial images to detect skin conditions and recommend suitable skincare products using AI. It is designed to help users understand their skin better and find the most effective skincare routine.
 
----
+----
 
 ## Overview
 
@@ -14,7 +14,7 @@ The Lumina system consists of:
 
 The app enables users to upload or scan their face, detect skin issues (e.g., acne, dullness), and get product recommendations based on the analysis.
 
----
+----
 
 ## Features
 
