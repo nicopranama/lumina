@@ -41,4 +41,4 @@ export const uploadImageForAnalysis = async (imageUri: string): Promise<UploadRe
     console.error('Error uploading image:', error);
     throw error;
   }
-}; 
+}; .
